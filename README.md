@@ -8,5 +8,7 @@
 - Unità P4: [Cicli](./P4-Cicli.pdf)
 - Unità P5: [Funzioni](./P5-Funzioni.pdf)
 - Unità P6: [Liste e tabelle](./P6-Liste_e_Tabelle.pdf)
+- Unità P7: [File](./P7-File.pdf)
+- Unità T1: [Rappresentazione dell'informazione](./T1-Rappresentazione_dati.pdf)
 
 
