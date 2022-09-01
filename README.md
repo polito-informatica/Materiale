@@ -17,4 +17,4 @@
 | Unità T2 | [Architettura degli elaboratori](./T2-Architettura.pdf)              | -              |
 
 
-- Scarica [tutti gli esempi Python in formato ZIP](./Esempi.zip)
+- Scarica [tutti gli esempi Python in formato ZIP](./Esempi.zip?raw=true)
