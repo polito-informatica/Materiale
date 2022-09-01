@@ -52,7 +52,7 @@ def read_words(filename):
 
 def only_alphabetic(parola):
     """
-    rimuove tutti i caratteri INIZIALI e FINALI non alfabetici da una stringa
+    Rimuove tutti i caratteri INIZIALI e FINALI non alfabetici da una stringa
 
     :param parola: una qualsiasi parola
     :return: la stessa parola, a cui sono stati rimossi segni non alfabetici iniziali e finali

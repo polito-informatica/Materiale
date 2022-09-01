@@ -16,9 +16,8 @@ for line in file:
             'nome': record[2]
         })
     else:
-        prima = False # la prima linea contiene i nomi dei campi
+        prima = False  # la prima linea contiene i nomi dei campi
 file.close()
-
 
 # Lettura come dizionario
 import csv
