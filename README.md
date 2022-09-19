@@ -22,5 +22,5 @@
 
 # Installazione del software necessario
 
- * [Istruzioni per sistema operativo Windows](./Istruzioni/istruzioni%20installazione%20ITA-Win%202022-23.pdf)
- * [Istruzioni per sistema operativo MacOS](./Istruzioni/istruzioni%20installazione%20ITA-Mac%202020-21.pdf)
+ * [Istruzioni per sistema operativo Windows](./Istruzioni/istruzioni%20installazione%20ITA-Win%202022-23.pdf?raw=true)
+ * [Istruzioni per sistema operativo MacOS](./Istruzioni/istruzioni%20installazione%20ITA-Mac%202020-21.pdf?raw=true)
