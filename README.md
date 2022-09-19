@@ -5,7 +5,7 @@
 
 | Unità    | Slide (PDF)                                                                   | Esempi         |
 |----------|-------------------------------------------------------------------------------|----------------|
-| Intro    | Introduzione al corso                                                         | -              |
+| Intro    | [Introduzione al corso](./Unita'%200%20-%20Introduzione%20al%20corso%20(Corno).pdf?raw=true)                                                         | -              |
 | Unità P1 | [Introduzione alla Programmazione](./P1-La_Programmazione.pdf?raw=true)       | [Python](./P1) |
 | Unità P2 | [Numeri e Stringhe](./P2-Numeri_e_stringhe.pdf?raw=true)                      | [Python](./P2) |
 | Unità P3 | [Decisioni](./P3-Decisioni.pdf?raw=true)                                      | [Python](./P3) |
