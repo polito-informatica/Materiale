@@ -18,7 +18,7 @@ count = 0
 line = infile.readline()
 while line != "":
     value = float(line)
-    outfile.write(f"{value:15.2f}")
+    outfile.write(f"{value:15.2f}\n")
     total = total + value
     count = count + 1
     line = infile.readline()
