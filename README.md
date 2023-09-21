@@ -23,8 +23,9 @@
 # Installazione del software necessario
 
  * [Istruzioni per sistema operativo Windows](./Istruzioni/istruzioni%20installazione%20ITA-Win%202023-24.pdf)
- 
- # Prontuario con le principali funzioni Python
+
+# Prontuario con le principali funzioni Python
 
  * [Cheatsheet](./CheatSheet/Python_Cheat_Sheet-3.2.pdf)
  * [Versione accessibile](./CheatSheet/Python_Cheat_Sheet-Accessibile-v3.2.pdf)
+
