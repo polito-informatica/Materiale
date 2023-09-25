@@ -12,7 +12,7 @@
 | Unità P4 | [Cicli](./P4-Cicli.pdf)                                              | [Python P4](https://github.com/polito-informatica/Materiale/tree/master/P4) |
 | Unità P5 | [Funzioni](./P5-Funzioni.pdf)                                        | [Python P5](https://github.com/polito-informatica/Materiale/tree/master/P5) |
 | Unità P6 | [Liste e tabelle](./P6-Liste_e_Tabelle.pdf)                          | [Python P6](https://github.com/polito-informatica/Materiale/tree/master/P6) |
-| Unità P7 | [File ed Eccezioni](./P7-File_e_Eccezioni.pdf)                       | [PythonP7](https://github.com/polito-informatica/Materiale/tree/master/P7) |
+| Unità P7 | [File ed Eccezioni](./P7-File_e_Eccezioni.pdf)                       | [Python P7](https://github.com/polito-informatica/Materiale/tree/master/P7) |
 | Unità P8 | [Strutture Dati Complesse](https://github.com/polito-informatica/Materiale/tree/master/P8-Strutture_dati_complesse.pdf)        | [Python P8](./P8) |
 | Unità T1 | [Rappresentazione dell'informazione](./T1-Rappresentazione_dati.pdf) | -              |
 | Unità T2 | [Architettura degli elaboratori]              | -              |
