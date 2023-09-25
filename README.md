@@ -5,7 +5,7 @@
 
 | Unità    | Slide (PDF)                                                                   | Esempi Python        |
 |----------|-------------------------------------------------------------------------------|----------------|
-| Intro    | Introduzione al corso                                                         | -              |
+| Intro    | [Introduzione al corso](./Unita'%200%20-%20Introduzione%20al%20corso%20(Corno).pdf)       | -              |
 | Unità P1 | [Introduzione alla Programmazione](./P1-La_Programmazione.pdf)       | [Python P1](https://github.com/polito-informatica/Materiale/tree/master/P1) |
 | Unità P2 | [Numeri e Stringhe](./P2-Numeri_e_stringhe.pdf)                      | [Python P2](https://github.com/polito-informatica/Materiale/tree/master/P2) |
 | Unità P3 | [Decisioni](./P3-Decisioni.pdf)                                      | [Python P3](https://github.com/polito-informatica/Materiale/tree/master/P3) |
