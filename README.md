@@ -16,7 +16,7 @@
 | Unità P7 | [File ed Eccezioni](./P7-File_e_Eccezioni.pdf)                       | [Python P7](https://github.com/polito-informatica/Materiale/tree/master/P7) |
 | Unità P8 | [Strutture Dati Complesse](https://github.com/polito-informatica/Materiale/tree/master/P8-Strutture_dati_complesse.pdf)        | [Python P8](./P8) |
 | Unità T1 | [Rappresentazione dell'informazione](./T1-Rappresentazione_dati.pdf) | -              |
-| Unità T2 | [Architettura degli elaboratori]              | -              |
+| Unità T2 | [Architettura degli elaboratori](./T2-Architettura.pdf)              | -              |
 
 
 - Scarica [tutti gli esempi Python (P1-P8) in formato ZIP](./Esempi.zip)
