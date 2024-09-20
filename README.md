@@ -1,5 +1,5 @@
-### Informatica - Politecnico di Torino (codice 14BHD, anno accademico 2023/24)
-#### Corso n.3 - Cognomi FAJ-KOR - prof. Fulvio Corno
+### Informatica - Politecnico di Torino (codice 14BHD, anno accademico 2024/25)
+#### Corso n.9 - Cognomi FAJ-KOR - prof. Fulvio Corno
 
 # Materiale del corso
 
