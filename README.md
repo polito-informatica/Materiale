@@ -27,6 +27,6 @@
 
 # Prontuario con le principali funzioni Python
 
- * [Cheatsheet](./CheatSheet/Python_Cheat_Sheet-3.2.pdf)
+ * [Cheatsheet](./CheatSheet/Python_Cheat_Sheet-3.4.pdf)
  * [Versione accessibile](./CheatSheet/Python_Cheat_Sheet-Accessibile-v3.2.pdf)
 
